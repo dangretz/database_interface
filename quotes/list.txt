@@ -1,0 +1,4 @@
+t01_Bodnar_diverse.txt
+t02_Simons_entropy.txt
+t03_Bodnar_active.txt
+t04_Bodnar_quick_glance.txt
