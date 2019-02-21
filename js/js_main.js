@@ -45,7 +45,7 @@ function readTextFile(file, callback){
       }
     }
   }
-  new_file.send(null);
+  new_file.send('');
 }
 
 // Places item on screen - text, GIFS, text
