@@ -2,9 +2,10 @@
 // 2/18/2019
 // Constructed For ENGFILM Film Directors: Nolan
 
-var main_path = window.location.pathname;
-main_path = main_path.split("/index.html")[0];    //Current Directory
-var offline_or_online = "http://"                 //Swap to http:// or file://
+//var main_path = window.location.pathname; console.log(main_path); main_path = main_path.substring(0, main_path.length - 1);
+var main_path = "dangretzinger.com/database_interface"
+// main_path = main_path.split("/index.html")[0];    //Current Directory
+var offline_or_online = "https://"                 //Swap to http:// or file://
 var item_list = [];                               //List of display_items
 var z_index_level = 5;            
 var total_items_used = 0;                         //Tracker of display_items on screen
@@ -45,7 +46,7 @@ function readTextFile(file, callback){
       }
     }
   }
-  new_file.send(null);
+  new_file.send('');
 }
 
 // Places item on screen - text, GIFS, text
