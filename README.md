@@ -23,7 +23,5 @@ Website is built using vanilla javascript, css, and html. Nothing is special on 
 ### Film Analysis
 
 ## Future Work
-  -Add off white background color for whole page
-  -Finish her story connection
-  -Refractor code
-  -Lower image quality
+  - Refractor code
+  - Lower image quality
