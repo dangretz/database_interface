@@ -8,9 +8,7 @@ Go to dangretzinger.com/database_interface
 
 ## Instructions
 -Click the button to add a new element
-
 -It could be a quote or an image
-
 -Contents relate to both Memento film by Christopher Nolan (2000) and Her Story video game by Sam Barlow (2015)
 -Clues are given after going through certain items on the left
 -Additions can be made by following the steps below:
