@@ -4,7 +4,7 @@ Small website built for a class assignment. Film theorists have discussions arou
 Webpage consists of images of *Memento* (Christopher Nolan, 2000) and *Her Story* (Sam Barlow, 2015). Clues (truthful or not) are revealed on the left. Click the button for more images.
  
 ## Set Up
-Go to dangretzinger.com/database_interface
+Go to https://dangretzinger.com/database_interface
 
 ## Instructions
 - Click the button to add a new element
